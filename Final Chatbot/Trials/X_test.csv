@@ -1,0 +1,98 @@
+,Disease,Symptoms
+10,hypertensive disease,angina pectoris
+11,hypertensive disease,pressure chest
+12,diabetes,polyuria
+13,diabetes,labored breathing
+14,depression mental depressive disorder,nightmare
+15,"coronary arteriosclerosis,coronary heart disease",shortness of breath
+16,"coronary arteriosclerosis,coronary heart disease",hypokinesia
+17,pneumonia,rhonchus
+18,pneumonia,green sputum
+19,pneumonia,non-productive cough
+20,pneumonia,wheezing
+21,pneumonia,haemoptysis
+22,pneumonia,distress respiratory
+23,pneumonia,tachypnea
+24,anxiety state,palpitation
+25,anxiety state,hallucinations auditory
+26,anxiety state,mood depressed
+27,anxiety state,hot flush
+28,anxiety state,pain
+29,anxiety state,consciousness clear
+30,cellulitis,sore to touch
+31,gastroesophageal reflux disease,asthenia
+32,deep vein thrombosis,headache
+33,epilepsy,hypokinesia
+34,epilepsy,jugular venous distention
+35,cardiomyopathy,unresponsiveness
+36,cardiomyopathy,yellow sputum
+37,carcinoma,paresthesia
+38,carcinoma,gravida 0
+39,carcinoma,diarrhea
+40,carcinoma,sore to touch
+41,carcinoma,heartburn
+42,psychotic disorder,nightmare
+43,psychotic disorder,consciousness clear
+44,psychotic disorder,motor retardation
+45,psychotic disorder,chest discomfort
+46,psychotic disorder,shortness of breath
+47,psychotic disorder,dyspnea
+48,psychotic disorder,sinus rhythm
+49,obesity,bradycardia
+50,obesity,"sweat, sweating increased"
+51,obesity,rale
+52,obesity,asymptomatic
+53,obesity,anorexia
+54,obesity,ascites
+55,obesity,fall
+56,kidney failure acute,haemorrhage
+57,kidney failure acute,unresponsiveness
+58,arthritis,hacking cough
+59,arthritis,dyspnea
+60,arthritis,chill
+61,arthritis,stridor
+62,arthritis,decreased body weight
+63,hemiparesis,paralyse
+64,hemiparesis,clonus
+65,hemiparesis,facial paresis
+66,paranoia,mass of body structure
+67,paranoia,lesion
+68,pancreatitis,stiffness
+69,pancreatitis,unresponsiveness
+70,hernia,orthopnea
+71,bacteremia,decreased translucency
+72,bacteremia,pallor
+73,failure heart,orthopnea
+74,failure heart,fatigue
+75,failure heart,dyspnea on exertion
+76,failure heart,dyspnea
+77,failure heart,shortness of breath
+78,upper respiratory infection,left atrial hypertrophy
+79,deglutition disorder,paresthesia
+80,colitis,feeling hopeless
+81,parkinson disease,feeling hopeless
+82,"candidiasis, oral candidiasis",haemorrhage
+83,personality disorder,nervousness
+84,personality disorder,ascites
+85,personality disorder,pruritus
+86,primary carcinoma of the liver cells,mass of body structure
+87,hemorrhoids,haemorrhage
+88,hemorrhoids,cough
+89,"effusion pericardial, pericardial effusion body substance",intoxication
+90,chronic alcoholic intoxication,homelessness
+91,chronic alcoholic intoxication,sleeplessness
+92,chronic alcoholic intoxication,unconscious state
+93,chronic alcoholic intoxication,panic
+94,chronic alcoholic intoxication,breath sounds decreased
+95,chronic alcoholic intoxication,shortness of breath
+96,delirium,unsteady gait
+97,delirium,throat sore
+98,delirium,malaise
+99,cholecystitis,nausea
+100,cholecystitis,myalgia
+101,ileus,gravida 0
+102,ileus,pain abdominal
+103,adhesion,flatulence
+104,delusion,neologism
+105,delusion,homicidal thoughts
+106,delusion,disturbed family
